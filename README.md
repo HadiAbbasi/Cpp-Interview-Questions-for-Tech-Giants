@@ -5,23 +5,62 @@
 </div>
 
 ---
-# C++ Modern Features
-
-## 📚 C++ Standards Documentation
+# C++ Interview Questions for Tech-Giants
 
 <div align="center">
 
-| C++ Version | Link to Documentation Page |
+| Question No | Question Title |
 |----------|---------------|
-| C++98 | [![C++98](https://img.shields.io/badge/C%2B%2B-98-blue?style=for-the-badge)](https://en.cppreference.com/w/cpp?source=post_page---------------------------) |
-| C++11 | [![C++11](https://img.shields.io/badge/C%2B%2B-11-blue?style=for-the-badge)](docs/en/cpp11/README.md) |
-| C++14 | [![C++14](https://img.shields.io/badge/C%2B%2B-14-blue?style=for-the-badge)](docs/en/cpp14/README.md) |
-| C++17 | [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge)](docs/en/cpp17/README.md) |
-| C++20 | [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue?style=for-the-badge)](docs/en/cpp20/README.md) |
-| C++23 | [![C++23](https://img.shields.io/badge/C%2B%2B-23-blue?style=for-the-badge)](docs/en/cpp23/README.md) |
-| C++26 | [![C++26](https://img.shields.io/badge/C%2B%2B-26-blue?style=for-the-badge)](docs/en/cpp26/README.md) |
-| C++29 | [![C++29](https://img.shields.io/badge/C%2B%2B-29-lightgrey?style=for-the-badge)](docs/en/cpp29/README.md) |
-
+| 001 | [![Question1: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 002 | [![Question2: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 003 | [![Question3: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 004 | [![Question4: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 005 | [![Question5: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 006 | [![Question6: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 007 | [![Question7: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 008 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 009 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 010 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 011 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 012 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 013 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 014 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 015 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 016 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 017 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 018 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 019 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 020 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 021 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 022 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 023 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 024 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 025 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 026 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 027 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 028 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 029 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 030 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 031 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 032 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 033 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 034 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 035 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 036 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 037 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 038 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 039 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 040 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 041 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 042 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 043 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 044 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 045 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 046 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 047 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 048 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 049 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
+| 050 | [![Question8: Performing a swap operation between two numeric variables without a temporary (tmp) variable ]()]() |
 </div>
 
 ---
@@ -33,6 +72,5 @@
 | GitHub | LinkedIn | Email | Site | Telegram |
 |--------|----------|-------|------|----------|
 | [HadiAbbasi](https://github.com/HadiAbbasi) | [Hadi Abbasi](https://www.linkedin.com/in/hadi-abbasi-programmer/) | [Hadi Abbasi](hadi.abbasi.programmer@gmail.com) | [Hiens.org](https://hiens.org) | [Hadi Abbasi](@Hadi_Abbasi_Programmer) |
-| [mbr](https://github.com/mbr1376) | [mbr](https://www.linkedin.com/in/mbr1376/) | [mbr](m.roodsarabi76@gmail.com) | | [mbr](@ad1mi2n) |
 
 </div>
