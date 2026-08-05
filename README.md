@@ -12,7 +12,7 @@
 
 | Index | Title | Symbol | Link |
 |:---:|--------|:---:|------|
-| 001 | Question1: Performing a swap operation between two numeric variables without a temporary (tmp) variable | 🔄 | [docs/en/q001/README.md](docs/en/q001/README.md) |
+| 001 | Question1: Performing a swap operation between two numeric variables without a temporary (tmp) variable | 🔄 | [Link](docs/en/q001/README.md) |
 | 002 |  |  | [Link](docs/en/q002/README.md) |
 | 003 |  |  | [Link](docs/en/q003/README.md) |
 | 004 |  |  | [Link](docs/en/q004/README.md) |
