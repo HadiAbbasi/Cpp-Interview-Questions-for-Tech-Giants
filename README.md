@@ -9,6 +9,10 @@
 # C++ Interview Questions for Tech-Giants
 
 <div align="center">
+  <img src="assets/img01.png" alt="Image" />
+</div>
+
+<div align="center">
 
 | Index | Title | Symbol | Link |
 |:---:|--------|:---:|------|
