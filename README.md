@@ -16,7 +16,7 @@
 | 002 | The operation of counting the number of characters in a given string | 🧮 | [Link](docs/en/q002/README.md) |
 | 003 | (Microsoft Math Question Missing Number (Easy)) find the one lost number from not sorted array of numbers between 1-N  | 🔎 | [Link](docs/en/q003/README.md) |
 | 004 | Google Array Question Boats to save people (Medium) | 🚢 | [Link](docs/en/q004/README.md) |
-| 005 |  |  | [Link](docs/en/q005/README.md) |
+| 005 | Google Array question first bad version Easy | 🐞 | [Link](docs/en/q005/README.md) |
 | 006 |  |  | [Link](docs/en/q006/README.md) |
 | 007 |  |  | [Link](docs/en/q007/README.md) |
 | 008 |  |  | [Link](docs/en/q008/README.md) |
