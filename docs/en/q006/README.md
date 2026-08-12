@@ -44,7 +44,7 @@ Any number XOR 0 equals the number itself! Because if there we a zero bit, 0 ^ 0
 
 Very Important: XOR is commutative and associative
 
-```c++
+```cpp
 A ^ B ^ C ^ D ^ E ^ F  ==  E ^ F ^ A ^ C ^ B ^ D   ==   F ^ E ^ D ^ C ^ B ^ A
 ```
 Final Insight
@@ -63,7 +63,7 @@ This gives us:
 
 </div>
 
-```c++
+```cpp
 #include <iostream>
 #include <vector>
 

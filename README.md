@@ -22,7 +22,7 @@
 | 004 | Google Array Question Boats to save people (Medium) | 🚢 | [Link](docs/en/q004/README.md) |
 | 005 | Google Array question first bad version Easy | 🐞 | [Link](docs/en/q005/README.md) |
 | 006 | Airbnb Math Question Single Number | 1️⃣ | [Link](docs/en/q006/README.md) |
-| 007 |  |  | [Link](docs/en/q007/README.md) |
+| 007 | Amazon Math Question Count Primes | 🔢 | [Link](docs/en/q007/README.md) |
 | 008 |  |  | [Link](docs/en/q008/README.md) |
 | 009 |  |  | [Link](docs/en/q009/README.md) |
 | 010 |  |  | [Link](docs/en/q010/README.md) |

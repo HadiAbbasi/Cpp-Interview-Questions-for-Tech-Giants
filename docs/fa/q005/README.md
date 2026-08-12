@@ -21,7 +21,7 @@
 
 ---
 
-```c++
+```cpp
 class Solution {
 public:
     int firstBadVersion(int n) {

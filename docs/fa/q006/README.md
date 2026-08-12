@@ -33,7 +33,7 @@
 
 نکته بسیار مهم: xor خاصیت جا به جایی دارد! یعنی حاصل اعداد زیر یکیست:
 
-```c++
+```cpp
 A ^ B ^ C ^ D ^ E ^ F  ==  E ^ F ^ A ^ C ^ B ^ D   ==   F ^ E ^ D ^ C ^ B ^ A
 ```
 
@@ -49,7 +49,7 @@ A ^ B ^ C ^ D ^ E ^ F  ==  E ^ F ^ A ^ C ^ B ^ D   ==   F ^ E ^ D ^ C ^ B ^ A
 
 </div>
 
-```c++
+```cpp
 #include <iostream>
 #include <vector>
 

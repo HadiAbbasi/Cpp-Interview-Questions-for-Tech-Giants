@@ -17,13 +17,13 @@ In other words, for example, the consecutive numbers from 1 to 50 should appear 
 Answer:
 The sum of the numbers from 1 to N is equal to:
 
-```
+```cpp
 SumOf1ToN = (N*(N+1))/2
 ```
 
 You know the value of N in this problem. Using this formula, you first calculate the total sum of the numbers from 1 to N (SumOf1ToN). Then, you iterate through the given array and compute the sum of its elements in a variable called Array_SUM. Finally, you subtract Array_SUM from SumOf1ToN, and the result will be the number that is missing from the array.
 
-```
+```cpp
 Int SumOf1ToN = (N*(N+1))/2
 Int Array_SUM = 0;
 For (int I = 0; I < Len(Array);i++)
