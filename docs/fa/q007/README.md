@@ -134,6 +134,12 @@ i × i < N
 
 ---
 
+<div align="center">
+  <img src="assets/img1.png" alt="Image" />
+</div>
+
+---
+
 ## پیاده‌سازی نهایی به زبان `C++`
 
 ```cpp

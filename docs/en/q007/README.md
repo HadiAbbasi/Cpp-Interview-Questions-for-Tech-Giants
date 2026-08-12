@@ -160,6 +160,12 @@ More precisely, when we conclude that multiples should be eliminated starting fr
 
 ---
 
+<div align="center">
+  <img src="assets/img1.png" alt="Image" />
+</div>
+
+---
+
 ## Final Implementation in `C++`
 
 ```cpp
