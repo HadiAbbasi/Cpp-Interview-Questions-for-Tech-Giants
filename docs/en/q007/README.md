@@ -28,7 +28,7 @@ The first method that comes to mind is:
 
 ### Why Is Checking Up to `i / 2` Enough?
 
-Because the smallest divisor of a number after `1` is `2`.
+Because the possible smallest divisor of a number after `1` is `2`.
 
 If a number `N` is divisible by `2`:
 
