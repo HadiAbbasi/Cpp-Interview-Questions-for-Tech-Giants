@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-# In the name of GOD
+In the name of GOD
 
 # C++ Interview Questions for Tech-Giants
 
