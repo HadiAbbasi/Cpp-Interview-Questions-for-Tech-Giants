@@ -9,7 +9,7 @@
 # سوالات اینترویوی استخدامی شرکتهای غول فناوری از برنامه نویسان C++
 
 <div align="center">
-  <img src="assets/img01.png" alt="Image" />
+  <img src="assets/img000-001.png" alt="Image" />
 </div>
 
 <div align="center">
