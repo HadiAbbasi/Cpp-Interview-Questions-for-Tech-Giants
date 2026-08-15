@@ -307,8 +307,6 @@ Output:
 True
 ```
 
----
-
 ------
 
 ## 🤝 Contributors
