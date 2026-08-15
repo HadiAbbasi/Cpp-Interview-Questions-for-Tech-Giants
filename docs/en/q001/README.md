@@ -14,7 +14,7 @@ Assuming that adding the two numbers does not cause an overflow, the well-known 
 If we assume we have two variables A and B, where the value stored in A is Δ (triangle) and the value stored in B is # (square):
 
 <div align="center">
-  <img src="assets/img01.png" alt="Image" />
+  <img src="../../../assets/img001-001.png" alt="Image" />
 </div>
 
 ## 🤝 Contributors

@@ -136,7 +136,7 @@ i × i < N
 ---
 
 <div align="center">
-  <img src="assets/img1.png" alt="Image" />
+  <img src="../../../assets/img007-001.png" alt="Image" />
 </div>
 
 ---

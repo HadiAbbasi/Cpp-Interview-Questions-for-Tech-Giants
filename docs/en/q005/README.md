@@ -24,7 +24,7 @@ Your task is to find the first bad version in the most efficient way possible
 App Versions (Greens are good version, Yellows are Bad versions)
 
 <div align="center">
-  <img src="assets/img01.png" alt="Image" />
+  <img src="../../../assets/img005-001.png" alt="Image" />
 </div>
 
 ---
