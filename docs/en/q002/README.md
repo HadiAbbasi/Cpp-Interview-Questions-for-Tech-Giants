@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 002: The operation of counting the number of characters in a given string
 
 ---
@@ -74,6 +75,8 @@ please enter a string:  سلام دنیا
 'ی': 1
 ```
 If you need to process Unicode strings (such as Persian), this program will work correctly as long as your compiler and terminal support UTF-8—because char in C++ can be used for UTF-8 byte processing. However, for more advanced Unicode handling, it is better to use std::wstring or dedicated libraries. For simple counting of UTF-8 bytes, though, this approach is sufficient
+
+---
 
 ## 🤝 Contributors
 

@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 003: (Microsoft Math Question Missing Number (Easy)) find the one lost number from not sorted array of numbers between 1-N 
 
 ------
@@ -30,6 +31,8 @@ For (int I = 0; I < Len(Array);i++)
          Array_SUM += Array[i];
 Int Lost_Num = SumOf1ToN  - Array_SUM ;
 ```
+
+---
 
 ## 🤝 Contributors
 

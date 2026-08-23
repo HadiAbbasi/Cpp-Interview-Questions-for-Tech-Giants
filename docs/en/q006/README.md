@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 006: Airbnb Math Question Single Number
 
 ------
@@ -92,6 +93,8 @@ int main()
 }
 
 ```
+
+---
 
 ## 🤝 Contributors
 

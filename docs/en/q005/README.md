@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 005:  Google Array question first bad version Easy
 
 ------
@@ -66,6 +67,9 @@ public:
 };
 
 ```
+
+---
+
 ## 🤝 Contributors
 
 <div align="center">

@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 004:  Google Array Question Boats to save people (Medium)
 
 ------
@@ -49,6 +50,8 @@ int NumRescueBoats(std::List<int> Weights , int Limit)
 }
 
 ```
+
+---
 
 ## 🤝 Contributors
 

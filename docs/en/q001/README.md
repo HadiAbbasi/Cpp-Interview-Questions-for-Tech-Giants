@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 # Question 001:  Performing a swap operation between two numeric variables without a temporary (tmp) variable 
 
 ---
@@ -16,6 +17,8 @@ If we assume we have two variables A and B, where the value stored in A is Δ (t
 <div align="center">
   <img src="../../../assets/img001-001.png" alt="Image" />
 </div>
+
+---
 
 ## 🤝 Contributors
 
