@@ -92,19 +92,19 @@ public:
         int maxArea = 0;
 
         while (left < right) {
-            // عرض ظرف
+            // width of container
             int width = right - left;
 
-            // ارتفاع ظرف = ارتفاع کوتاه‌تر
+            // the height of the container = the shorter height
             int h = min(height[left], height[right]);
 
-            // مساحت
+            // area
             int area = width * h;
 
-            // بیشترین مساحت
+            // max area
             maxArea = max(maxArea, area);
 
-            // حرکت دادن اشاره‌گر خط کوتاه‌تر
+            // mving the pointer of shorter line
             if (height[left] < height[right]) {
                 left++;
             } else {
