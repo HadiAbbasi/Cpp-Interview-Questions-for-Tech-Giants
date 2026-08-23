@@ -6,13 +6,13 @@
 
 ---
 
+<div align="center">
+In the name of GOD
+
 # C++ Interview Questions for Tech-Giants
 
-<div align="center">
-  <img src="assets/img000-001.png" alt="Image" />
-</div>
 
-<div align="center">
+  <img src="assets/img000-001.png" alt="Image" />
 
 | Index | Title | Symbol | Link |
 |:---:|--------|:---:|------|
