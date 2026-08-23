@@ -73,7 +73,7 @@ In the name of GOD
 
 Note: Some parts of this article was prepared and edited using explanations and rewrites provided by ChatGPT (OpenAI) and Qwen (Alibaba).
 
-[Udemy: 50 days of LEETCODE in C++:MAANG Algorithms Coding Interview](https://www.udemy.com/course/leetcode-in-cpp-algorithms-coding-interview-questions/?couponCode=CP260817G1)
+🔗 [Udemy: 50 days of LEETCODE in C++:MAANG Algorithms Coding Interview](https://www.udemy.com/course/leetcode-in-cpp-algorithms-coding-interview-questions/?couponCode=CP260817G1)
 
 ## 🤝 Contributors
 
