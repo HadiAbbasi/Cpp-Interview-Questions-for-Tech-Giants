@@ -12,9 +12,9 @@
   <img src="../../../assets/img010-001.png" alt="Image" />
 </div>
 
-Question: You are given an array of integers and asked to determine whether the array forms a mountain from the first element to the last.
+سوال: آرایه ای از اعداد صحیح را به شما داده اند و از شما خواسته اند تعیین کنید که آیا به ترتیب از آیتم اول تا آخر آرایه، حالت کوه دارد یا خیر؟
 
-In other words, the numbers must be strictly increasing from the beginning up to some point, and then strictly decreasing from that point to the end.
+به بیان بهتر باید از ابتدا تا جایی از آرایه، اعداد صعودی باشند و از آن نقطه تا پایان، اعداد نزولی باشند!
 
 ```
 class Solution {

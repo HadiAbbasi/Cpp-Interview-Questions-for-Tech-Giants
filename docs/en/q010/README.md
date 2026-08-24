@@ -12,7 +12,9 @@
   <img src="../../../assets/img010-001.png" alt="Image" />
 </div>
 
+Question: You are given an array of integers and asked to determine whether the array forms a mountain from the first element to the last.
 
+In other words, the numbers must be strictly increasing from the beginning up to some point, and then strictly decreasing from that point to the end.
 
 ```
 class Solution {
