@@ -1,15 +1,45 @@
-<div align="right">
+<div align="center">
 
-[🇺🇸 English](./README.md) | [🇮🇷 فارسی](../../fa/q00x/README.md)
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](../../fa/q010/README.md)
 
 </div>
 
 ---
-# Question 00x: 
 
-------
+# Question 010: Google Array Question Valid mountain array Easy
 
-## 🤝 Contributors
+<div align="center">
+  <img src="../../../assets/img010-001.png" alt="Image" />
+</div>
+
+
+
+```
+class Solution {
+public:
+    bool validMountainArray(vector<int>& A) {
+        int i = 1;
+
+        while (i < A.size() && A[i] > A[i - 1]) {
+            i++;
+        }
+
+        if (i == 1 || i == A.size()) {
+            return false;
+        }
+
+        while (i < A.size() && A[i] < A[i - 1]) {
+            i++;
+        }
+
+        return i == A.size();
+    }
+};
+```
+
+---
+
+## 🤝 مشارکت کنندگان
 
 <div align="center">
 
