@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 
 [🇺🇸 English](../../en/q006/README.md) | [🇮🇷 فارسی](./README.md)
 
