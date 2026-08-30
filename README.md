@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 
 [🇺🇸 English](README.md) | [🇮🇷 فارسی](README.fa.md)
 
