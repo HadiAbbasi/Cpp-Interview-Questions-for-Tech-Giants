@@ -442,6 +442,33 @@ The important insight is recognizing that one pointer can track the **next posit
 
 ---
 
+What if we want to move the zeroes to the front of the array? To move zeroes to the beginning of the array while preserving the relative order of non-zero elements, you must reverse the direction of both traversal and placement; that is, traverse from end to beginning (right to left) and push non-zero elements to the right:
+```
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+class Solution {
+public:
+    void moveZeroesToFront(vector<int>& nums) {
+        // اشاره‌گر برای ثبت موقعیت قرارگیری عنصر غیرصفر بعدی از سمت راست
+        int lastNonZeroFoundAt = nums.size() - 1;
+        
+        // پیمایش از راست به چپ
+        for (int i = nums.size() - 1; i >= 0; i--) {
+            if (nums[i] != 0) {
+                swap(nums[lastNonZeroFoundAt], nums[i]);
+                lastNonZeroFoundAt--;
+            }
+        }
+    }
+};
+```
+
+---
+
 ## 🤝 Contributors
 
 <div align="center">
