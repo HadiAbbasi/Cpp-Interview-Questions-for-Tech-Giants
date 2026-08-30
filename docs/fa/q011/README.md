@@ -69,10 +69,6 @@ public:
                 lastNonZeroFoundAt++;
             }
         }
-		
-		for (int i = lastNonZeroFoundAt; i < nums.size(); i++) {
-			nums[i] = 0;
-		}
     }
 };
 
