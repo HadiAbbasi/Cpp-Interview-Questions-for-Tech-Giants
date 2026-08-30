@@ -1,12 +1,12 @@
 <div align="center">
 
-[🇺🇸 English](./README.md) | [🇮🇷 فارسی](/../../fa/q011/README.md)
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](../../fa/q011/README.md)
 
 </div>
 
 ---
 
-# Question 011: Move Zeroes to the End of an Array
+# Question 011: Facebook(Meta) question: Move Zeroes to the End of an Array
 
 > **Facebook / Meta Interview Question**
 
