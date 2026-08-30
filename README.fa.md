@@ -24,7 +24,7 @@
 | 008 | (سوال آمازون) بازگشت ربات به مبدا حرکت | 🤖 | [لینک](docs/fa/q008/README.md) |
 | 009 | (سوال مایکروسافت): آرایه ستون ها و دو ستون با بیشتری | 💧 | [لینک](docs/fa/q009/README.md) |
 | 010 | (سوال گوگل): آرایه اعداد شکل کوه از کم به زیاد و سپس از زیاد به کم تا انتها | ⛰️ | [لینک](docs/fa/q010/README.md) |
-| 011 |  |  | [لینک](docs/fa/q011/README.md) |
+| 011 | (سوال فیسبوک) انتقال صفرهای آرایه به انتها | ➡️ | [لینک](docs/fa/q011/README.md) |
 | 012 |  |  | [لینک](docs/fa/q012/README.md) |
 | 013 |  |  | [لینک](docs/fa/q013/README.md) |
 | 014 |  |  | [لینک](docs/fa/q014/README.md) |
@@ -69,7 +69,7 @@
 
 ---
 
-توجه: بخش هایی از این داکیومنت با استفاده از توضیحات و بازنویسی انجام‌شده توسط **ChatGPT (OpenAI)** و **Qwen (Alibaba)** تهیه و ویرایش شده است.
+توجه: بخش هایی از این داکیومنت با استفاده از توضیحات و بازنویسی انجام‌شده توسط **ChatGPT (OpenAI)** و **Qwen (Alibaba)** و **Gemeni (Google)** تهیه و ویرایش شده است.
 
 🔗 [Udemy: 50 days of LEETCODE in C++:MAANG Algorithms Coding Interview](https://www.udemy.com/course/leetcode-in-cpp-algorithms-coding-interview-questions/?couponCode=CP260817G1)
 

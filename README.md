@@ -26,7 +26,7 @@ In the name of GOD
 | 008 | Amazon Math Question Robot return to origin Easy | 🤖 | [Link](docs/en/q008/README.md) |
 | 009 | Microsoft Array Question Container with most water Medium | 💧 | [Link](docs/en/q009/README.md) |
 | 010 | Google Array Question Valid mountain array Easy | ⛰️ | [Link](docs/en/q010/README.md) |
-| 011 |  |  | [Link](docs/en/q011/README.md) |
+| 011 | Facebook Array Question Move Zeroes Easy | ➡️ | [Link](docs/en/q011/README.md) |
 | 012 |  |  | [Link](docs/en/q012/README.md) |
 | 013 |  |  | [Link](docs/en/q013/README.md) |
 | 014 |  |  | [Link](docs/en/q014/README.md) |
@@ -71,7 +71,7 @@ In the name of GOD
 
 ---
 
-Note: Some parts of this article was prepared and edited using explanations and rewrites provided by ChatGPT (OpenAI) and Qwen (Alibaba).
+Note: Some parts of this article was prepared and edited using explanations and rewrites provided by ChatGPT (OpenAI) and Qwen (Alibaba) and Google Gemeni.
 
 🔗 [Udemy: 50 days of LEETCODE in C++:MAANG Algorithms Coding Interview](https://www.udemy.com/course/leetcode-in-cpp-algorithms-coding-interview-questions/?couponCode=CP260817G1)
 
