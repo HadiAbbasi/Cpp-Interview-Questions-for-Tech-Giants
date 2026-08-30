@@ -442,7 +442,7 @@ The important insight is recognizing that one pointer can track the **next posit
 
 ---
 
-##What if we want to move the zeroes to the front of the array? 
+## What if we want to move the zeroes to the front of the array? 
 
 To move zeroes to the beginning of the array while preserving the relative order of non-zero elements, you must reverse the direction of both traversal and placement; that is, traverse from end to beginning (right to left) and push non-zero elements to the right:
 ```
