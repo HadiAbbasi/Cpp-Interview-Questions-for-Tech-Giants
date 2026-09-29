@@ -849,14 +849,12 @@ dp[i][j] =
 
 ---
 
-## 🤝 مشارکت‌کنندگان
+## 🤝 مشارکت ها
 
 <div align="center">
 
-|                    GitHub                   |                              LinkedIn                              |                          Email                         |             Website            |                Telegram                |
-| :-----------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------: | :------------------------------------: |
-| [HadiAbbasi](https://github.com/HadiAbbasi) | [Hadi Abbasi](https://www.linkedin.com/in/hadi-abbasi-programmer/) | [Hadi Abbasi](mailto:hadi.abbasi.programmer@gmail.com) | [Hiens.org](https://hiens.org) | [Hadi Abbasi](@Hadi_Abbasi_Programmer) |
+| GitHub | LinkedIn | Email | Site | Telegram |
+|--------|----------|-------|------|----------|
+| [HadiAbbasi](https://github.com/HadiAbbasi) | [Hadi Abbasi](https://www.linkedin.com/in/hadi-abbasi-programmer/) | [Hadi Abbasi](hadi.abbasi.programmer@gmail.com) | [Hiens.org](https://hiens.org) | [Hadi Abbasi](@Hadi_Abbasi_Programmer) |
 
 </div>
-
-این نسخه برای README گیت‌هاب هم از نظر **خوانایی** و هم از نظر **دقت الگوریتمی** خیلی بهتر است؛ مخصوصاً تفکیک «تمام Substringها» از «Longest Common Substring» جلوی یک ابهام مهم در مقاله را می‌گیرد.
