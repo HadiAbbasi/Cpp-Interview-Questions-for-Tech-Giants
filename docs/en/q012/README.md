@@ -6,7 +6,7 @@
 
 ---
 
-# 🔎 Finding Common Substrings Between Two Strings in C++
+# 🔎 Finding (Common Substrings + Longest Substring) Between Two Strings in C++
 
 <div align="center">
   <img src="../../../assets/img012-001.jpg" alt="Image" />
