@@ -6,7 +6,7 @@
 
 ---
 
-# 🔎 یافتن Substringهای مشترک +  بلندترین Substring مشترک بین دو رشته در C++
+# 🔎 یافتن Substringهای مشترک +  بلندترین Substring مشترک بین دو رشته در ++C
 
 <div align="center">
   <img src="../../../assets/img012-001.jpg" alt="Image" />
