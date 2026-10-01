@@ -27,7 +27,7 @@ In the name of GOD
 | 009 | Microsoft Array Question Container with most water Medium | 💧 | [Link](docs/en/q009/README.md) |
 | 010 | Google Array Question Valid mountain array Easy | ⛰️ | [Link](docs/en/q010/README.md) |
 | 011 | Facebook Array Question Move Zeroes Easy | ➡️ | [Link](docs/en/q011/README.md) |
-| 012 |  |  | [Link](docs/en/q012/README.md) |
+| 012 | Finding Longest common substring + finding all common substrings between 2 strings Medium | 🔤 | [Link](docs/en/q012/README.md) |
 | 013 |  |  | [Link](docs/en/q013/README.md) |
 | 014 |  |  | [Link](docs/en/q014/README.md) |
 | 015 |  |  | [Link](docs/en/q015/README.md) |
