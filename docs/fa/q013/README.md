@@ -9,7 +9,7 @@
 # سؤال 013: یافتن بلندترین رشتهٔ پالیندروم (Palindrome) داخل یک رشته با الگوریتم Manacher
 
 <div align="center">
-  <img src="../../../assets/img013-001.jpg" alt="Image" />
+  <img src="../../../assets/img013-001.png" alt="Image" />
 </div>
 
 ## صورت مسئله
@@ -419,7 +419,7 @@ mirror = 2 * 20 - 23 = 17
 ```
 
 <div align="center">
-  <img src="../../../assets/img013-002.jpg" alt="Image" />
+  <img src="../../../assets/img013-002.png" alt="Image" />
 </div>
 
 فرض کنید قبلاً شعاع پالیندروم موقعیت ۱۷ را برابر ۶ محاسبه کرده باشیم. (چون شعاع پالیندروم کاراکترهای ابتدایی‌تر را زودتر حساب کرده‌ایم)
