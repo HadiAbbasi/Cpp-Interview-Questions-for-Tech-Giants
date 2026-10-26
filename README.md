@@ -28,9 +28,9 @@ In the name of GOD
 | 010 | Google Array Question Valid mountain array Easy | ⛰️ | [Link](docs/en/q010/README.md) |
 | 011 | Facebook Array Question Move Zeroes Easy | ➡️ | [Link](docs/en/q011/README.md) |
 | 012 | Finding Longest common substring + finding all common substrings between 2 strings Medium | 🔤 | [Link](docs/en/q012/README.md) |
-| 013 |  |  | [Link](docs/en/q013/README.md) |
-| 014 |  |  | [Link](docs/en/q014/README.md) |
-| 015 |  |  | [Link](docs/en/q015/README.md) |
+| 013 | Finding the longest palindrom substring inside a string | 🔄🔤 | [Link](docs/en/q013/README.md) |
+| 014 | Finding the longest common substring + Finding all common substrings between N string with unknown sizes and structures | 🔗 | [Link](docs/en/q014/README.md) |
+| 015 | Amazon Linked list question Linked list cycle Medium  | 🐇 🐢 | [Link](docs/en/q015/README.md) |
 | 016 |  |  | [Link](docs/en/q016/README.md) |
 | 017 |  |  | [Link](docs/en/q017/README.md) |
 | 018 |  |  | [Link](docs/en/q018/README.md) |
